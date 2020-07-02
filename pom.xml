@@ -32,7 +32,7 @@
 		<maven.war.version>2.6</maven.war.version>
 		<maven.compiler.version>3.3</maven.compiler.version>
 		<spring.version>4.1.6.RELEASE</spring.version>
-		<mysql.version>5.1.35</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<jsf.version>2.2.10</jsf.version>
 		<hibernate.version>4.3.9.Final</hibernate.version>
 		<aspectj.version>1.8.5</aspectj.version>
